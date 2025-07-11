@@ -1,10 +1,16 @@
-# Bandcamp Enhancement Suite
+# CampCache
 ## About
-Chrome extension adding extra features to the Bandcamp experience.
+Chrome extension adding extra features to the Bandcamp experience to help with efficient browsing and organization.
 
-The goal of this extension is to make Bandcamp easier to use when navigating larger sets of music (e.g. label pages with large back catalogues). It has been designed with DJs in mind.
+CampCache builds on the excellent Bandcamp Enhancement Suite, adding the ability to organize your library and wishlist into a customizable crate system, along with the already great features that help preview tracks more conveniently and navigate larger sets of music (like large label catalogs). It's designed to help DJs find tracks faster and catalog them so you never lose a gem.
 
 ## Features
+### Library & Wishlist Crates ![Coming Soon](https://placehold.co/120x24/darkblue/white?text=Coming+Soon)
+Organize your library and wishlist into crates and add tracks or albums to them easily from anywhere without breaking your flow.
+
+### Quick Recommendations ![Coming Soon](https://placehold.co/120x24/darkblue/white?text=Coming+Soon)
+Easily jump to recommended albums without clicking and scrolling.
+
 ### Preview Button
 Provides a "Preview" button on pages with multiple albums. This button will open a player on the same page giving a quick and easy way to listen to tracks without having to navigate away from the page.
 
@@ -59,7 +65,7 @@ This will download the files into the same directory the terminal session is in.
 Adds buttons on track and album pages to easily add an item to your cart with a single click.
 
 ## Installation
-Available from the [Chrome webstore](https://chrome.google.com/webstore/detail/bandcamp-label-view/padcfdpdlnpdojcihidkgjnmleeingep) and [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/bandcamp-enhancement-suite)
+Available soon for Chrome and Firefox.
 
 ## Feedback
 Feedback, feature requests, and bug reports are always welcome.
