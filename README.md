@@ -64,6 +64,13 @@ Available from the [Chrome webstore](https://chrome.google.com/webstore/detail/b
 ## Feedback
 Feedback, feature requests, and bug reports are always welcome.
 
+## Attribution
+
+CampCache is a fork of [Bandcamp Enhancement Suite](https://github.com/sabjorn/BandcampEnhancementSuite) by Steeve Bjornson.
+Huge thanks to Steeve for his work and allowing it to remain open source.
+
+If you’d like to support the original extension, please consider [sponsoring](https://github.com/sponsors/sabjorn) Steeve on GitHub.
+
 ## Development
 This project uses `webpack` to generate the final project files from npm packages. This allows the use of `import` statements.
 
