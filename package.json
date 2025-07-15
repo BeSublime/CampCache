@@ -1,7 +1,7 @@
 {
-  "name": "bandcampenhancementsuite",
-  "version": "9.9.9",
-  "description": "Chrome extension adding extra features to the Bandcamp experience.",
+  "name": "CampCache",
+  "version": "0.1.0",
+  "description": "Chrome extension that enhances Bandcamp with tools for browsing and organizing.",
   "dependencies": {
     "idb": "^5.0.3",
     "web-audio-beat-detector": "^8.2.14",
