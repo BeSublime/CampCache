@@ -1,5 +1,5 @@
 {
-  "name": "CampCache",
+  "name": "campcache",
   "version": "0.1.0",
   "description": "Chrome extension that enhances Bandcamp with tools for browsing and organizing.",
   "dependencies": {
